@@ -1,0 +1,11 @@
+#pour dire de ne pas ignoer ce fichier on fait 
+!.gitignore 
+
+	#liste des repertoire de données
+o
+ok
+/src
+
+	#liste briuillons
+	
+
